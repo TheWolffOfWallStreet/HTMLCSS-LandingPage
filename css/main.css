@@ -259,6 +259,11 @@ footer a:hover {text-decoration: underline;}
 }
 .newsletter input {
     border: 1px solid #364147;
+    width: 200px;
+    margin-bottom: 10px;
+}
+.newsletter button {
+    width: 150px;
     min-width: auto;
     text-transform: uppercase;
     letter-spacing: 1px;
